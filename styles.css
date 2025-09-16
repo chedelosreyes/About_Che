@@ -1,0 +1,31 @@
+h1 {text-align: center
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+
+body {
+	background-color: white;
+	padding-bottom: 100px;
+}
+
+h2 {
+	font-family: sans-serif;
+}
+
+p {
+	color: #191970;
+	font-size: 18px;
+}
+
+.description {
+	font-style: italic;
+}
+
+ul {
+	list-style-type: none;
+}

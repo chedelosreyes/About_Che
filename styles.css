@@ -48,8 +48,9 @@ h2 {
 
 img {
   display: block;
-  margin: 2rem auto;
-  width: 330px;
+  /*margin: 2rem 2rem;*/
+  width: 100%;
+  /*aspect-ratio: ;*/
   border-radius: 14px;
 }
 
@@ -93,5 +94,6 @@ img{
     /* Any adjustments for desktop and larger go here.
     Note these styles will be applied to anything 729px or larger -- so desktop */
 }
+
 
 
